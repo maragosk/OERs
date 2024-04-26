@@ -10,6 +10,7 @@
 4 από τα αντικείμενα βρίσκονται στην πλατφόρμα WordWall και είναι μικρές εφαρμογές που ανήκουν στην κατηγορία drill & practice.
 
 [https://wordwall.net/el/resource/72367788](https://wordwall.net/el/resource/72367788)
+[https://wordwall.net/el/resource/72388184](https://wordwall.net/el/resource/72388184)
 
 1 αντικείμενο βρίσκεται στην πλατφόρμα Learningapps και είναι μικρή εφαρμογή που ανήκει στην κατηγορία drill & practice.
 
