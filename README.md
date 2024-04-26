@@ -1,11 +1,11 @@
-# oer
+# OERs
 Open Educational Resources
 
 Δημιουργός: Μαραγκός Κωνσταντίνος
 
 Το αποθετήριο περιλαμβάνει 6 links σε διαδραστικά αντικείμενα
 
-Υπάρχει για αυτά Άδεια Χρήσης -> [https://github.com/maragosk/OER/blob/main/LICENSE](https://github.com/maragosk/OER/blob/main/LICENSE)
+Υπάρχει για αυτά Άδεια Χρήσης -> [https://github.com/maragosk/OERs/blob/main/LICENSE](https://github.com/maragosk/OER/blob/main/LICENSE)
 
 5 από τα αντικείμενα βρίσκονται στην πλατφόρμα WordWall και είναι μικρές εφαρμογές που ανήκουν στην κατηγορία drill & practice.
 
