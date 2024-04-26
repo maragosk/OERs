@@ -4,7 +4,7 @@ Open Educational Resources
 
 Το αποθετήριο περιλαμβάνει 6 links σε διαδραστικά αντικείμενα
 
-Υπάρχει για αυτά Άδεια Χρήσης -> [https://github.com/st/OERs/blob/main/LICENSE](https://github.com/st/OERs/blob/main/LICENSE)
+Υπάρχει για αυτά Άδεια Χρήσης -> [https://github.com/maragosk/OER/blob/main/LICENSE](https://github.com/maragosk/OER/blob/main/LICENSE)
 
 5 από τα αντικείμενα βρίσκονται στην πλατφόρμα WordWall και είναι μικρές εφαρμογές που ανήκουν στην κατηγορία drill & practice.
 
