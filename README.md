@@ -7,7 +7,7 @@
 
 Υπάρχει για αυτά Άδεια Χρήσης -> [https://github.com/maragosk/OERs/blob/main/LICENSE](https://github.com/maragosk/OERs/blob/main/LICENSE)
 
-5 από τα αντικείμενα βρίσκονται στην πλατφόρμα WordWall και είναι μικρές εφαρμογές που ανήκουν στην κατηγορία drill & practice.
+4 από τα αντικείμενα βρίσκονται στην πλατφόρμα WordWall και είναι μικρές εφαρμογές που ανήκουν στην κατηγορία drill & practice.
 
 [https://wordwall.net/el/resource/72367788](https://wordwall.net/el/resource/72367788)
 
