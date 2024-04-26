@@ -1,5 +1,6 @@
 # oer
 Open Educational Resources
+
 Δημιουργός: Μαραγκός Κωνσταντίνος
 
 Το αποθετήριο περιλαμβάνει 6 links σε διαδραστικά αντικείμενα
@@ -8,11 +9,12 @@ Open Educational Resources
 
 5 από τα αντικείμενα βρίσκονται στην πλατφόρμα WordWall και είναι μικρές εφαρμογές που ανήκουν στην κατηγορία drill & practice.
 
-https://wordwall.net/el/resource/66121805
-https://wordwall.net/el/resource/66121419
-https://wordwall.net/el/resource/66121479
-https://wordwall.net/el/resource/66122115
-https://wordwall.net/el/resource/66122243
+[https://wordwall.net/el/resource/72367788](https://wordwall.net/el/resource/72367788)
+
+1 αντικείμενο βρίσκεται στην πλατφόρμα Learningapps και είναι μικρή εφαρμογή που ανήκει στην κατηγορία drill & practice.
+
+[https://learningapps.org/display?v=ppvqnjarj24](https://learningapps.org/display?v=ppvqnjarj24)
+
 1 αντικείμενο βρίσκεται στην πλατφόρμα Kahoot και είναι μικρή εφαρμογή που ανήκει στην κατηγορία drill & practice.
 
-https://kahoot.it/challenge/?quiz-id=369fa88c-1a5d-4d70-a4b8-b6d5c9be5354&single-player=true
+[https://kahoot.it/challenge/?quiz-id=faf9092b-bfc3-4c4e-9b48-f6a77f61a472&single-player=true](https://kahoot.it/challenge/?quiz-id=faf9092b-bfc3-4c4e-9b48-f6a77f61a472&single-player=true)
