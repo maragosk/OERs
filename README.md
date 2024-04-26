@@ -1,5 +1,5 @@
 # OERs
-Open Educational Resources
+## Open Educational Resources
 
 Δημιουργός: Μαραγκός Κωνσταντίνος
 
