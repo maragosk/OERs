@@ -19,7 +19,7 @@
 
 1 αντικείμενο βρίσκεται στην πλατφόρμα Learningapps και είναι μικρή εφαρμογή που ανήκει στην κατηγορία drill & practice.
 
-[https://learningapps.org/display?v=ppvqnjarj24](https://learningapps.org/display?v=ppvqnjarj24)
+[https://learningapps.org/watch?v=ppvqnjarj24](https://learningapps.org/watch?v=ppvqnjarj24)
 
 1 αντικείμενο βρίσκεται στην πλατφόρμα Kahoot και είναι μικρή εφαρμογή που ανήκει στην κατηγορία drill & practice.
 
